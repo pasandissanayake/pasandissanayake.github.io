@@ -13,7 +13,7 @@ Counterfactual explanations provide guidance on achieving a favorable outcome fr
 The proposed attack mitigates the issue of decision boundary shift, which is a problem that occurs in case of systems that provide counterfactual explanations for queries originating only from one side of the target model's decision boundary.
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/counterf_me/boundary_shift.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/counterf_me/boundary_shift.png" title="example image" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
@@ -23,27 +23,11 @@ The proposed attack mitigates the issue of decision boundary shift, which is a p
 Consequently, the proposed model extraction attack surpassed the performance of the baseline attack in "Ulrich Aïvodji, Alexandre Bolot, and Sébastien Gambs. Model extraction from counterfactual explanations. arXiv preprint arXiv:2009.01884, 2020" in a wide array of experiments.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/counterf_me/2d_demo.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/counterf_me/2d_demo.png" title="example image" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
     2D demonstration of the proposed attack. Notice how the decision boundary of the surrogate model obtained by the baseline attack has shifted, but the proposed attack has mitigated this shift.
 </div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/counterf_me/2d_demo.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-
 This project was supported by Northrop Grumman Corporation.
 
