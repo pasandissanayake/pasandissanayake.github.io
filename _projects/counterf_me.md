@@ -8,7 +8,7 @@ category: research
 related_publications: 
 ---
 
-Counterfactual explanations provide guidance on achieving a favorable outcome from a model, with minimum input perturbation. However, they can also be exploited to leak information about the underlying model, causing privacy concerns. Prior work shows that one can query for counterfactuals with several input instances and train a surrogate model using all the queries and their counterfactuals. In this project, we investigate how model extraction attacks can be improved by further leveraging the fact that the counterfactuals also lie quite close to the decision boundary.
+Counterfactual explanations provide guidance on achieving a favorable outcome from a model, with minimum input perturbation. However, they can also be exploited to leak information about the underlying model, causing privacy concerns. Prior work shows that one can query for counterfactual explanations with several input instances and train a surrogate model using all the queries and their counterfactual explanations. In this project, we investigate how model extraction attacks can be improved by further leveraging the fact that the counterfactual explanations also lie quite close to the decision boundary.
 
 The proposed attack mitigates the issue of decision boundary shift, which is a problem that occurs in case of systems that provide counterfactual explanations for queries originating only from one side of the target model's decision boundary.
 <div class="row">
