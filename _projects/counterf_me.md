@@ -12,7 +12,7 @@ Counterfactual explanations provide guidance on achieving a favorable outcome fr
 
 The proposed attack mitigates the issue of decision boundary shift, which is a problem that occurs in case of systems that provide counterfactual explanations for queries originating only from one side of the target model's decision boundary.
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/counterf_me/boundary_shift.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
