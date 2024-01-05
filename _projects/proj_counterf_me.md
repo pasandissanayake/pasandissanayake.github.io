@@ -29,5 +29,14 @@ Consequently, the proposed model extraction attack surpassed the performance of 
 <div class="caption">
     2D demonstration of the proposed attack. Notice how the decision boundary of the surrogate model obtained by the baseline attack has shifted, but the proposed attack has mitigated this shift.
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/counterf_me/real_mccf_fidelity.png" title="example image" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    Performance (measured as fidelity) of the proposed and baseline attacks over real-world data
+</div>
 This project was supported by Northrop Grumman Corporation.
 
