@@ -5,7 +5,7 @@ description: Explored how the additional information provided by counterfactual 
 img: assets/img/12.jpg
 importance: 1
 category: research
-related_publications: 
+related_publications: counterfME
 ---
 
 Counterfactual explanations provide guidance on achieving a favorable outcome from a model, with minimum input perturbation. However, they can also be exploited to leak information about the underlying model, causing privacy concerns. Prior work shows that one can query for counterfactual explanations with several input instances and train a surrogate model using all the queries and their counterfactual explanations. In this project, we investigate how model extraction attacks can be improved by further leveraging the fact that the counterfactual explanations also lie quite close to the decision boundary.
@@ -38,5 +38,8 @@ Consequently, the proposed model extraction attack surpassed the performance of 
 <div class="caption">
     Performance (measured as fidelity) of the proposed and baseline attacks over real-world data
 </div>
+
 This project was supported by Northrop Grumman Corporation.
+
+<b>Github:</b> Link will appear here soon.
 
