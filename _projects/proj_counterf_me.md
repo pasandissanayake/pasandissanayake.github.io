@@ -15,7 +15,7 @@ The proposed attack mitigates the issue of decision boundary shift, which is a p
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/counterf_me/mlaas_model.png" title="example image" class="img-fluid rounded" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/counterf_me/boundary_shift.png" title="example image" class="img-fluid rounded" %}
     </div>
 </div>
