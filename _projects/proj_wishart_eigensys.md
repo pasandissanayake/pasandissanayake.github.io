@@ -38,7 +38,7 @@ where $$\lambda_i$$'s denote the ordered eigenvalues of $$XX^H$$, with $$\lambda
     Probability of detection versus false alarm probability; ROC curves are shown for $$m=n=4$$
 </div>
 
-Next, we focused on the properties of the eigenvectors of centralized single-spiked complex Wishart matrices. Accordingly, the distributions of the test statistics $$Z_k^{(n)}=\left|u^Hv_k\right|^2$$ were studied, where $$v_k$$ denotes the $$k^{\text{th}}$$ eigenvector of $$XX^H$$. Specifically, we focused on the cases $$k=1$$ and $$k=n$$. The results were verified through simulations as before, including Quantile-Quantile plots for theoretical and empirical quantiles, which demonstrates the agreement better in-case of highly skewed distributions such as the ones observed here.
+Next, we focused on the properties of the eigenvectors of centralized single-spiked complex Wishart matrices. Accordingly, the distributions of the test statistics $$Z_k^{(n)}=\mid u^Hv_k \mid^2$$ were studied, where $$v_k$$ denotes the $$k^{\text{th}}$$ eigenvector of $$XX^H$$. Specifically, we focused on the cases $$k=1$$ and $$k=n$$. The results were verified through simulations as before, including Quantile-Quantile plots for theoretical and empirical quantiles, which demonstrates the agreement better in-case of highly skewed distributions such as the ones observed here.
 
 <div class="row">
     <div class="col-sm-8 mx-auto d-block mt-3 mt-md-0">
