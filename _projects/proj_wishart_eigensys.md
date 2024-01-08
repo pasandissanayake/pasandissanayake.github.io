@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Properties of single-spiked complex Wishart matrices
+title: Single-spiked complex Wishart matrices
 description: Studied the properties (distributions corresponding to statistics) of centralized complex Wishart matrices with a single-spiked covariance structure
 img: assets/img/rank1_wishart/trace_over_min.png
 importance: 2
@@ -18,7 +18,7 @@ Under this project, we first characterized the distributions of the Scaled Condi
 $$
     \kappa_{\text{SC}}^2(X) = \frac{\sum_{k=1}^n \lambda_k}{\lambda_1}
 $$
-where $$\lambda_i$$'s denote the ordered eigenvalues of $$XX^H$$, with $$\lambda_1$$ being the smallest. We were able to obtain an exact expression for the probability density function of the SCN, which was extended to an asymptotic result in the regime where $$m-n$$ stays constant while $$m,n\rightarrow \infty$$. The results were verified through various simulations, including ROC curves for blind detection in cognitive radio networks.
+where $$\lambda_k$$'s denote the ordered eigenvalues of $$XX^H$$, with $$\lambda_1$$ being the smallest. We were able to obtain an exact expression for the probability density function of the SCN, which was extended to an asymptotic result in the regime where $$m-n$$ stays constant while $$m,n\rightarrow \infty$$. The results were verified through various simulations, including ROC curves for blind detection in cognitive radio networks.
 
 <div class="row">
     <div class="col-sm-8 mx-auto d-block mt-3 mt-md-0">
