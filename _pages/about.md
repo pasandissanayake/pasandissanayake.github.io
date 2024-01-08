@@ -23,10 +23,10 @@ I received BSc in Electronic and Telecommunication Engineering from the [Univers
 
 
 ## Interests
-- Explainability
-- Fairness
-- Privacy
-- Causality
-- Information Theory
-- Travelling
-- Swimming
+Explainability,
+Fairness,
+Privacy,
+Causality,
+Information Theory,
+Travelling,
+Swimming
