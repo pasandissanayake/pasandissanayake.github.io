@@ -26,4 +26,7 @@ I received BSc in Electronic and Telecommunication Engineering from the [Univers
 Explainability, Fairness, Privacy, Causality, Information Theory, Signal Processing, Travelling, Swimming
 
 ### Contact
-Email me at pasand_AT_umd_DOT_edu. I am available on the following platforms as well:
+- Email: pasand_AT_umd_DOT_edu
+- Mailing address: 2109 A.V. Williams Building, 8223 Paint Branch Drive College Park, MD 20742
+
+I am available on the following platforms as well:
