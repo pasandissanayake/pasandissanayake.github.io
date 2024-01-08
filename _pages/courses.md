@@ -2,12 +2,21 @@
 layout: page
 permalink: /courses/
 title: courses
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taken and taught
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Courses taken
+- CMSC742 - Algorithms in Machine Learning: Guarantees and Analyses (Fall '23)
+- ENEE662 - Convex Optimization (Fall '23)
+- ENEE621 - Estimation and Detection Theory (Spring '23)
+- ENEE627 - Information Theory (Spring '23)
+- ENEE620 - Random Processes in Communication and Control (Fall '22)
+- ENEE630 - Advanced Digital Signal Processing (Fall '22)
 
-Organize your courses by years, topics, or universities, however you like!
 
+## Courses taught (TA)
+- ENEE436 - Foundations of Machine Learning (Fall '23)
+- ENEE324 - Engineering Probability (Fall '23, Spring '22)
+- ENEE420 - Communication Systems (Fall '22)
