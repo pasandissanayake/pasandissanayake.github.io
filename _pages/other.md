@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /outreach/
 title: outreach
 description:
 nav: true
@@ -8,11 +8,11 @@ nav_order: 6
 ---
 
 ## Presentations
-- **Model extraction using counterfactual explanations ([Poster](assets/pdf/presentations/NASIT_poster.pdf))**
+- **Model extraction using counterfactual explanations ([Poster](/assets/pdf/presentations/NASIT_poster.pdf))**
     - Northrop Grumman University Research Symposium, McLean, VA (Oct. 2023)
     - North American School of Information Theory, Philadelphia, PA (June 2023)
 
-- **Distribution of the Scaled Condition Number of single-spiked complex Wishart matrices ([Presentation](assets/pdf/presentations/ENTC_Research_Seminar.pdf))**
+- **Distribution of the Scaled Condition Number of single-spiked complex Wishart matrices ([Presentation](/assets/pdf/presentations/ENTC_Research_Seminar.pdf))**
     - ENTC Research Seminar, UoM, Sri Lanka (June, 2022)
 
 
