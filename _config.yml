@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Pasan
 middle_name:
 last_name: Dissanayake
-email: pasand@umd.edu
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Student - UMD | Machine Learning | Interpretability | Privacy | Fairness
 footer_text: >
@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: pasandissanayake # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: pas4n # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: pasandissanayake # your LinkedIn user name
 telegram_username: # your Telegram user name
