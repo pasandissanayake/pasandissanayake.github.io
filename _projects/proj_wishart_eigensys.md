@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Properties of centralized single-spiked complex Wishart matrices
+title: Properties of single-spiked complex Wishart matrices
 description: Studied the properties (distributions corresponding to statistics) of centralized complex Wishart matrices with a single-spiked covariance structure
 img: assets/img/rank1_wishart/trace_over_min.png
 importance: 2
