@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Properties of single-spiked centralized complex Wishart matrices
+title: Properties of centralized single-spiked complex Wishart matrices
 description: Studied the properties (distributions corresponding to statistics) of centralized complex Wishart matrices with a single-spiked covariance structure
 img: assets/img/rank1_wishart/trace_over_min.png
 importance: 2
@@ -43,4 +43,24 @@ where $$\lambda_i$$'s denote the ordered eigenvalues of $$XX^H$$, with $$\lambda
 
 
 
-Next, we focused on the properties of the eigenvectors of single-spiked centralized complex Wishart matrices. Accordingly, the  
+Next, we focused on the properties of the eigenvectors of centralized single-spiked complex Wishart matrices. Accordingly, the distributions of the test statistic $$Z_k^{(n)}=|u^Hv_k|^2$$ were studied, where $$v_k$$ denothes the $$k^\text{th}$$ eigenvector of $$XX^H$. Specifically, we focused on the cases $$k=1$$ and $$k=n$$. The results were verified through simulations as before, including Quantile-Quantile plots for theoretical and empirical quantiles, which demonstrates the agreement better in-case of highly skewed distributions such as the ones observed here.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rank1_wishart/max_eigvector.png" title="example image" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of simulated data points and the analytical p.d.f.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rank1_wishart/max_eigvec_qqplot.png" title="example image" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    Quantile-quantile plots - sample quantiles vs theoretical quantiles
+</div>
+
+All the simulations corresponding to these studies were carried-out using Mathematica. The notebooks can be found on Github at: 
