@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /outreach/
-title: outreach
+title: presentations/outreach
 description:
 nav: true
 nav_order: 6
@@ -16,7 +16,7 @@ nav_order: 6
     - ENTC Research Seminar, UoM, Sri Lanka (June, 2022)
 
 
-## Volunteering
+## Outreach
 - Reviewer - IEEE Wireless Communications Letters
 - Member of the panel of judges - UMD Louis Stokes Alliance for Minority Participation (LSAMP)
 Fall Research Symposium 2023
