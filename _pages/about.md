@@ -28,6 +28,6 @@ Explainability, Fairness, Privacy, Causality, Information Theory, Signal Process
 
 ### Contact
 - **Email:** pasand_AT_umd_DOT_edu
-- **Mailing address:** 2109 A.V. Williams Building, 8223 Paint Branch Drive College Park, MD 20742
+- **Mailing address:** 2109 A.V. Williams Building, 8223 Paint Branch Drive, College Park, MD 20742
 
 I am also available on the following platforms:
