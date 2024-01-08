@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Single-spiked complex Wishart matrices
-description: Studied the properties (distributions corresponding to statistics) of centralized complex Wishart matrices with a single-spiked covariance structure
+description: Studied the distributions of two test statistics of centralized complex Wishart matrices with a single-spiked covariance structure
 img: assets/img/rank1_wishart/trace_over_min.png
 importance: 2
 category: research
@@ -12,7 +12,7 @@ In this project, we studied the properties of two important statistics of the co
 
 Let $$X \in \mathbb{C}^{n\times m} (m\geq n)$$ be a random matrix with independent columns, each distributed as complex multivariate Gaussian with zero mean and single-spiked covariance matrix, i.e., $$\mathbb{E}\left[X_j X_j^H\right] = \mathbf{I}_n+\eta u u^H$$ for $$j=1,2,\dots,m$$. Here, $$X_j$$ is the $$j^{\text{th}}$$ column of $$X$$, $$\mathbf{I}_n$$ is the $$n\times n$$ identity matrix, $$\eta$$ is a non-negative real constant, $$u\in\mathbb{C}^{n\times 1}$$ is an arbitrary non-random vector with unit Euclidean norm, and $$(.)^{H}$$ represents the Hermitian operator. 
 
-Among various covariance structures, Johnstone’s spiked model [38] has been widely used in the literature to analyze the effects of having a few dominant trends or correlations in the covariance matrix, that are referred to as the spikes. These spikes arise in various practical scenarios in different scientific disciplines. For instance, they correspond to the first few dominant factors in factor models arising from financial economics first few principal components, the number of clusters in gene expression data, and the number of signals in signal detection and estimation etc.
+Among various covariance structures, Johnstone’s spiked model [1] has been widely used in the literature to analyze the effects of having a few dominant trends or correlations in the covariance matrix, that are referred to as the spikes. These spikes arise in various practical scenarios in different scientific disciplines. For instance, they correspond to the first few dominant factors in factor models arising from financial economics first few principal components, the number of clusters in gene expression data, and the number of signals in signal detection and estimation etc.
 
 Under this project, we first characterized the distributions of the Scaled Condition Number (SCN) defined as 
 $$
@@ -59,3 +59,5 @@ Next, we focused on the properties of the eigenvectors of centralized single-spi
 </div>
 
 All the simulations corresponding to these studies were carried-out using Mathematica. The notebooks can be found on Github at: [github.com/pasandissanayake/single-spiked-wishart](https://github.com/pasandissanayake/single-spiked-wishart)
+
+[1] I. M. Johnstone, “On the distribution of the largest eigenvalue in principal components analysis,” Ann. Statist., vol. 29, no. 2, pp. 295–327, Apr. 2001.
