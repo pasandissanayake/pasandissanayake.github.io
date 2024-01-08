@@ -2,7 +2,7 @@
 layout: page
 title: Counterfactual Explanations and Model Extraction Attacks
 description: Explored how the additional information provided by counterfactual explanations can be exploited by an adversary in-order to improve model extraction attacks
-img: assets/img/12.jpg
+img: assets/img/counterf_me/2d_demo.png
 importance: 1
 category: research
 related_publications: counterfME
