@@ -21,10 +21,14 @@ $$
 where $$\lambda_i$$'s denote the ordered eigenvalues of $$XX^H$$, with $$\lambda_1$$ being the smallest. We were able to obtain an exact expression for the probability density function of the SCN, which was extended to an asymptotic result in the regime where $$m-n$$ stays constant while $$m,n\rightarrow \infty$$. The results were verified through various simulations, including ROC curves for blind detection in cognitive radio networks.
 
 <div class="row">
-    <div class="col-sm-8 mx-auto d-block mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/rank1_wishart/trace_over_min.png" title="example image" class="img-fluid rounded" %}
     </div>
 </div>
+<figure class="figure">
+  <img src="assets/img/rank1_wishart/trace_over_min.png" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">A caption for the above image.</figcaption>
+</figure>
 <div class="caption">
     Comparison of simulated data points and the analytical p.d.f
 </div>
@@ -38,7 +42,7 @@ where $$\lambda_i$$'s denote the ordered eigenvalues of $$XX^H$$, with $$\lambda
     Probability of detection versus false alarm probability; ROC curves are shown for $$m=n=4$$
 </div>
 
-Next, we focused on the properties of the eigenvectors of centralized single-spiked complex Wishart matrices. Accordingly, the distributions of the test statistics $$Z_k^{(n)}=u^Hv_k^2$$ were studied, where $$v_k$$ denotes the $$k^{\text{th}}$$ eigenvector of $$XX^H$. Specifically, we focused on the cases $$k=1$$ and $$k=n$$. The results were verified through simulations as before, including Quantile-Quantile plots for theoretical and empirical quantiles, which demonstrates the agreement better in-case of highly skewed distributions such as the ones observed here.
+Next, we focused on the properties of the eigenvectors of centralized single-spiked complex Wishart matrices. Accordingly, the distributions of the test statistics $$Z_k^{(n)}=\|u^Hv_k\|^2$$ were studied, where $$v_k$$ denotes the $$k^{\text{th}}$$ eigenvector of $$XX^H$$. Specifically, we focused on the cases $$k=1$$ and $$k=n$$. The results were verified through simulations as before, including Quantile-Quantile plots for theoretical and empirical quantiles, which demonstrates the agreement better in-case of highly skewed distributions such as the ones observed here.
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
