@@ -8,19 +8,25 @@ category: research
 related_publications: counterfME
 ---
 
+<div class="row">
+    <div class="col-sm-8 mx-auto d-block mt-3 mt-md-0">
+        {% include figure.html path="assets/img/counterf_me/mlaas_model.png" title="example image" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    Problem setting
+</div>
+
 Counterfactual explanations provide guidance on achieving a favorable outcome from a model, with minimum input perturbation. However, they can also be exploited to leak information about the underlying model, causing privacy concerns. Prior work shows that one can query for counterfactual explanations with several input instances and train a surrogate model using all the queries and their counterfactual explanations. In this project, we investigate how model extraction attacks can be improved by further leveraging the fact that the counterfactual explanations also lie quite close to the decision boundary.
 
 The proposed attack mitigates the issue of decision boundary shift, which is a problem that occurs in case of systems that provide counterfactual explanations for queries originating only from one side of the target model's decision boundary.
 <div class="row">
     <div class="col-sm-8 mx-auto d-block mt-3 mt-md-0">
-        {% include figure.html path="assets/img/counterf_me/mlaas_model.png" title="example image" class="img-fluid rounded" %}
-    </div>
-    <div class="col-sm-8 mx-auto d-block mt-3 mt-md-0">
         {% include figure.html path="assets/img/counterf_me/boundary_shift.png" title="example image" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
-    Problem setting and the decision boundary shift issue
+    Decision boundary shift issue
 </div>
 
 Consequently, the proposed model extraction attack surpassed the performance of the baseline attack in "Ulrich Aïvodji, Alexandre Bolot, and Sébastien Gambs. Model extraction from counterfactual explanations. arXiv preprint arXiv:2009.01884, 2020" in a wide array of experiments.
