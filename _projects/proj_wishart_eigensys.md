@@ -58,4 +58,4 @@ Next, we focused on the properties of the eigenvectors of centralized single-spi
     Quantile-quantile plots - sample quantiles vs theoretical quantiles
 </div>
 
-All the simulations corresponding to these studies were carried-out using Mathematica. The notebooks can be found on Github at: 
+All the simulations corresponding to these studies were carried-out using Mathematica. The notebooks can be found on Github at: [github.com/pasandissanayake/single-spiked-wishart](https://github.com/pasandissanayake/single-spiked-wishart)
