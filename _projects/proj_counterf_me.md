@@ -50,6 +50,6 @@ Consequently, the proposed model extraction attack surpassed the performance of 
 
 This project was supported by Northrop Grumman Corporation.
 
-<b>Github:</b> Link will appear here soon.
+<b>Github:</b> [https://github.com/pasandissanayake/model-reconstruction-using-counterfactuals](https://github.com/pasandissanayake/model-reconstruction-using-counterfactuals)
 
 [1] Ulrich Aïvodji, Alexandre Bolot, and Sébastien Gambs, "Model extraction from counterfactual explanations," arXiv preprint arXiv:2009.01884, 2020.
