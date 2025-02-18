@@ -17,7 +17,7 @@ nav_order: 6
 
 
 ## Outreach
-- Reviewer - IEEE Wireless Communications Letters ([view on Publons](http://www.webofscience.com/wos/author/record/HJY-8103-2023))
+- Reviewer - International Conference on Learning Representations (ICLR 2025), Workshop on Explainable AI in Finance (XAIFIN 2024), IEEE International Symposium on Information Theory (ISIT 2024, 2025), ACM Conference on Fairness, Accountability, and Transparency (FAccT 2024, 2025), IEEE Wireless Communications Letters ([view on Publons](http://www.webofscience.com/wos/author/record/HJY-8103-2023))
 - Member of the panel of judges - UMD Louis Stokes Alliance for Minority Participation (LSAMP)
 Fall Research Symposium 2023
 - Mentor - Montgomery Blair High School Magnet Student Program 2023
