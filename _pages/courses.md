@@ -8,6 +8,7 @@ nav_order: 6
 ---
 
 ## Courses taken
+- ENEE633 - Statistical Pattern Recognition (Spring '25)
 - CMSC858A - Concentration Inequalities for Randomized Algorithms and Machine Learning (Fall '24)
 - CMSC764 - Advanced Numerical Optimization (Spring '24)
 - CMSC742 - Algorithms in Machine Learning: Guarantees and Analyses (Fall '23)
