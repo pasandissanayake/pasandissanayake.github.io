@@ -9,6 +9,7 @@ nav_order: 6
 
 ## Presentations
 - **Model extraction using counterfactual explanations ([Poster](/assets/pdf/presentations/NASIT_poster.pdf))**
+    - Artificial Intelligence Interdisciplinary Institute Leadership Maryland Summit (Oct. 2024)
     - Northrop Grumman University Research Symposium, McLean, VA (Oct. 2023)
     - North American School of Information Theory, Philadelphia, PA (June 2023)
 
@@ -17,7 +18,7 @@ nav_order: 6
 
 
 ## Outreach
-- Reviewer - International Conference on Learning Representations (ICLR 2025), Workshop on Explainable AI in Finance (XAIFIN 2024), IEEE International Symposium on Information Theory (ISIT 2024, 2025), ACM Conference on Fairness, Accountability, and Transparency (FAccT 2024, 2025), IEEE Wireless Communications Letters ([view on Publons](http://www.webofscience.com/wos/author/record/HJY-8103-2023))
+- Reviewer - Conference on Neural Information Processing Systems (NeurIPS 2025), International Conference on Learning Representations (ICLR 2025), Workshop on Explainable AI in Finance (XAIFIN 2024), IEEE International Symposium on Information Theory (ISIT 2024, 2025), ACM Conference on Fairness, Accountability, and Transparency (FAccT 2024, 2025), IEEE Wireless Communications Letters ([view on Publons](http://www.webofscience.com/wos/author/record/HJY-8103-2023))
 - Project Lead - UMD Trustworthy AI in Law and Society (TRAILS) AI Summer Camp 2024
 - Member of the panel of judges - UMD Louis Stokes Alliance for Minority Participation (LSAMP)
 Fall Research Symposium 2023
