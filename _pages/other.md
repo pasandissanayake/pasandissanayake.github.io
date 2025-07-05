@@ -18,7 +18,7 @@ nav_order: 6
 
 
 ## Outreach
-- Reviewer - Conference on Neural Information Processing Systems (NeurIPS 2025), International Conference on Learning Representations (ICLR 2025), Workshop on Explainable AI in Finance (XAIFIN 2024), IEEE International Symposium on Information Theory (ISIT 2024, 2025), ACM Conference on Fairness, Accountability, and Transparency (FAccT 2024, 2025), IEEE Wireless Communications Letters ([view on Publons](http://www.webofscience.com/wos/author/record/HJY-8103-2023))
+- Reviewer - NeurIPS 2025; ICLR 2025; XAIFIN 2024; ISIT 2024, 2025; FAccT 2024, 2025; IEEE Wireless Communications Letters ([view on Publons](http://www.webofscience.com/wos/author/record/HJY-8103-2023))
 - Project Lead - UMD Trustworthy AI in Law and Society (TRAILS) AI Summer Camp 2024
 - Member of the panel of judges - UMD Louis Stokes Alliance for Minority Participation (LSAMP)
 Fall Research Symposium 2023
