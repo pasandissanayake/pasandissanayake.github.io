@@ -8,6 +8,8 @@ nav_order: 6
 ---
 
 ## Presentations
+- **Efficient Model Reconstruction Leveraging Interpretability ([Poster](/assets/pdf/presentations/NG_University_Research_Symposium_2025.pdf))**
+    - Northrop Grumman University Research Symposium, Bethesda, MD (July. 2025)
 - **Model extraction using counterfactual explanations ([Poster](/assets/pdf/presentations/NASIT_poster.pdf))**
     - Artificial Intelligence Interdisciplinary Institute Leadership Maryland Summit (Oct. 2024)
     - Northrop Grumman University Research Symposium, McLean, VA (Oct. 2023)
