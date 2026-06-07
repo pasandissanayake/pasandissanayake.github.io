@@ -8,8 +8,6 @@ category: research
 related_publications: knowledgeDistill2
 ---
 
-<h1>Quantifying Knowledge Distillation Using Partial Information Decomposition</h1>
-
 Knowledge distillation compresses complex machine learning models by training a smaller student model to emulate the representations of a larger teacher model. However, the teacher's representations may also encode nuisance information irrelevant to the downstream task. Distilling such irrelevant information can impede the performance of a capacity-limited student. This raises a fundamental question: *What are the information-theoretic limits of knowledge distillation?*
 
 We leverage Partial Information Decomposition (PID) to formally define and quantify:
