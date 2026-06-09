@@ -8,8 +8,6 @@ category: research
 related_publications: counterfME, privateCF, robustCF, privateCFImmutable, cfDistill
 ---
 
-<h1>Counterfactual explanations and model extraction attacks</h1>
-
 <div class="row">
     <div class="col-sm-8 mx-auto d-block mt-3 mt-md-0">
         {% include figure.html path="assets/img/counterf_me/mlaas_model.png" title="example image" class="img-fluid rounded" %}
